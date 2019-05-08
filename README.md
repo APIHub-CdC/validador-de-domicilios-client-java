@@ -113,12 +113,12 @@ keytool -list -keystore ${KEYSTORE_FILE} \
 3. Ir a la pestaña de "**Certificados para @tuApp**".
 
 <p align="center">
-  <img src="https://www.circulodecredito.com.mx/assets/img/logocirculo.png">
+  <img src="https://github.com/APIHub-CdC/imagenes-cdc/blob/master/applications.png">
  </p>
 
 4. Al abrir una ventana emergente se deberá cargar el certificado previamente creado y darle clic al botón "**Cargar**", como se muestra en la siguiente imagen.
 <p align="center">
-  <img src="./img/upload_cert.png">
+  <img src="https://github.com/APIHub-CdC/imagenes-cdc/blob/master/upload_cert.png">
 </p>
 
 ### Paso 3. Descargar el certificado de Círculo de Crédito dentro del portal de desarrolladores
@@ -128,13 +128,13 @@ keytool -list -keystore ${KEYSTORE_FILE} \
 3. Ir a la pestaña de "**Certificados para @tuApp**".
 
 <p align="center">
-  <img src="http://api-dev-documentacion.s3-website-us-east-1.amazonaws.com/docs/API-docs/img/applications.png">
+  <img src="https://github.com/APIHub-CdC/imagenes-cdc/blob/master/applications.png">
  </p>
 
 4. Al abrir una ventana emergente se deberá dar clic al botón "**Descargar**" como se muestra en la siguiente imagen; el certificado comenzará a descargarse.
 
 <p align="center">
-  <img src="./img/download_cert.png">
+  <img src="https://github.com/APIHub-CdC/imagenes-cdc/blob/master/download_cert.png">
 </p>
 
 ### Paso 4. Modificar archivo de configuraciones
