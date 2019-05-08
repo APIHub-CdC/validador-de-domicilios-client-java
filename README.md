@@ -113,7 +113,7 @@ keytool -list -keystore ${KEYSTORE_FILE} \
 3. Ir a la pestaña de "**Certificados para @tuApp**".
 
 <p align="center">
-  <img src="http://api-dev-documentacion.s3-website-us-east-1.amazonaws.com/docs/API-docs/img/applications.png">
+  <img src="https://www.circulodecredito.com.mx/assets/img/logocirculo.png">
  </p>
 
 4. Al abrir una ventana emergente se deberá cargar el certificado previamente creado y darle clic al botón "**Cargar**", como se muestra en la siguiente imagen.
