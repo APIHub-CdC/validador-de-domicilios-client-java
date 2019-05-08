@@ -118,7 +118,7 @@ keytool -list -keystore ${KEYSTORE_FILE} \
 
 4. Al abrir una ventana emergente se deberá cargar el certificado previamente creado y darle clic al botón "**Cargar**", como se muestra en la siguiente imagen.
 <p align="center">
-  <img src="https://github.com/APIHub-CdC/imagenes-cdc/blob/master/upload_cert.png">
+  <img src="https://github.com/APIHub-CdC/imagenes-cdc/blob/master/upload_cert.png" width="268">
 </p>
 
 ### Paso 3. Descargar el certificado de Círculo de Crédito dentro del portal de desarrolladores
@@ -134,7 +134,7 @@ keytool -list -keystore ${KEYSTORE_FILE} \
 4. Al abrir una ventana emergente se deberá dar clic al botón "**Descargar**" como se muestra en la siguiente imagen; el certificado comenzará a descargarse.
 
 <p align="center">
-  <img src="https://github.com/APIHub-CdC/imagenes-cdc/blob/master/download_cert.png">
+  <img src="https://github.com/APIHub-CdC/imagenes-cdc/blob/master/download_cert.png" width="268">
 </p>
 
 ### Paso 4. Modificar archivo de configuraciones
