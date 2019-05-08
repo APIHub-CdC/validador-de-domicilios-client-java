@@ -112,7 +112,9 @@ keytool -list -keystore ${KEYSTORE_FILE} \
 2. Seleccionar la aplicación.
 3. Ir a la pestaña de "**Certificados para @tuApp**".
 
-![applications](img/applications.png)
+<p align="center">
+  <img src="http://api-dev-documentacion.s3-website-us-east-1.amazonaws.com/docs/API-docs/img/applications.png">
+ </p>
 
 4. Al abrir una ventana emergente se deberá cargar el certificado previamente creado y darle clic al botón "**Cargar**", como se muestra en la siguiente imagen.
 <p align="center">
@@ -125,7 +127,9 @@ keytool -list -keystore ${KEYSTORE_FILE} \
 2. Seleccionar la aplicación.
 3. Ir a la pestaña de "**Certificados para @tuApp**".
 
-![applications](img/applications.png)
+<p align="center">
+  <img src="http://api-dev-documentacion.s3-website-us-east-1.amazonaws.com/docs/API-docs/img/applications.png">
+ </p>
 
 4. Al abrir una ventana emergente se deberá dar clic al botón "**Descargar**" como se muestra en la siguiente imagen; el certificado comenzará a descargarse.
 
