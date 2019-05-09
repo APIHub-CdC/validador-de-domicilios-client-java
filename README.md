@@ -9,17 +9,6 @@ Es una herramienta que permite determinar la vigencia del domicilio con base en 
 1. Java >= 1.7
 2. Maven >= 3.3
 
-## Instalación
-
-Para la instalación de las dependencias se deberá ejecutar el siguiente comando:
-
-```shell
-mvn install -Dmaven.test.skip=true
-```
-
-> **NOTA:** Este fragmento del comando *-Dmaven.test.skip=true* evitará que se lance la prueba unitaria.
-
-
 ## Guía de inicio
 
 ### Paso 1. Generar llave y certificado
@@ -215,5 +204,5 @@ En el archivo **vectoresNivelesTest**, que se encuentra en ***src/test/java/io/a
 Teniendo los pasos anteriores ya solo falta ejecutar la prueba unitaria, con el siguiente comando:
 
 ```shell
-mvn test -Dmaven.install.skip=true
+mvn test
 ```
